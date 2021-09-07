@@ -1,0 +1,4 @@
+E uma estutura de dados que organiza seus elementos de forma hierarquica, onde existe um 
+elementos que fica no topo da arvore, chamado de raiz e existem os elementos subordinados
+a ele , que sao chamados de nós ou folhas
+
