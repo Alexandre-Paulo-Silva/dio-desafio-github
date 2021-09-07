@@ -13,3 +13,20 @@ gradle -v
 instalando o maven
 
 export PATH=$PATH:/opt/maven/apache-maven-3.8.2/bin
+mvn -v
+
+resolvendo incopatibiliade de versoes do gradle
+
+gradle wrapper
+
+./gradlew 
+
+resolvendo incopatibiliade de versoes do maven
+
+
+mvn -N io.takari:maven:wrapper
+
+./mvnw -v
+
+
+
