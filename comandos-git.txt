@@ -10,3 +10,4 @@ git pull
 
 git clone
 
+git init
