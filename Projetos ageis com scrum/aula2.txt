@@ -22,4 +22,11 @@ age como facilitador
 auxiliar o product Owner no planejamento e estimativas do backlog
 auxiliar a equipe a remover impedimento e interdisciplinidade 
 
+o que faz o Time de desenvovimento(DEV) 
+
+possui habilidades suficientes par desenvover testar criar e desenhar ou todo for necessario para
+entregar o software funcionado
+
+
+
 
