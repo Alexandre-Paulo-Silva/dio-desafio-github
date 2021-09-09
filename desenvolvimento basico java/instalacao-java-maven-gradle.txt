@@ -29,4 +29,15 @@ mvn -N io.takari:maven:wrapper
 ./mvnw -v
 
 
+spring boot -gerar projeto
+
+
+https://start.spring.io/
+
+
+
+
+
+
+
 
